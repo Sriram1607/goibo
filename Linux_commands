@@ -1,0 +1,29 @@
+1. Pwd 			---- 	Present working directory
+2. cd			---	change directory
+3. touch		---	to create a file
+4. cat			---	to display the content in the file
+5. mkdir 		--- 	to create a directory
+6. rmdir		---	to remove a directory
+7. rm 			---	to remove a file
+8. rm -rf (file_name)	---	to remove recursively and forcebly. (Deleting a directory even consisting a file)
+	Note: we connot delete a directory directly if the directory has files in it. it can be achived through rm -rf command
+9. ls 			---	to display the list of files and direc in the present location
+
+File Permissions:
+
+User
+Group
+others
+
+Read - 4 Write - 2 Execute - 1
+
+to diplay the file permissions we use "ls -ll" command
+
+to give permission to the file we use "chmod" command.
+
+ex: chmod 777 file1   it means for the user group we have given Read,write and execute access. and for group we have given all the three permissions and also to others we have given all the three permissions.
+
+ex 2: chmod 721 file2 it means for users -(Read,write,execute) and group - write permission and for others - only execute permission.
+
+
+
