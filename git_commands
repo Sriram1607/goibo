@@ -1,0 +1,28 @@
+
+FitHub is used for source code management system.
+
+In azure we use Azure Repos as SCM.
+
+VCM : In github, git is used as Version control Management.
+
+we need to add each file to git so that it can track every thing regarding that file.
+
+git status is used to cheack weather the files are added into git or not.
+
+if the files are not added to git then it will show the files in Red color including some msg.
+
+
+
+
+We use git commnads for the code changes
+git clone github    // clone means copy
+
+cd repository
+
+git add
+
+git commit
+
+git push
+
+git pull
