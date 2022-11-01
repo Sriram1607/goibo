@@ -1,0 +1,7 @@
+void main()
+{
+  char a[30];
+  printf("enter the student name");
+  scanf("%s",&a);
+  printf("student name is %s",a);
+ }
