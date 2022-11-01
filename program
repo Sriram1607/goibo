@@ -5,3 +5,7 @@ void main()
   scanf("%s",&a);
   printf("student name is %s",a);
  }
+void add()
+{
+  printf("total students=%d",add);
+ }
