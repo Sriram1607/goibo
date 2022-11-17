@@ -8,6 +8,8 @@
 8. rm -rf (file_name)	---	to remove recursively and forcebly. (Deleting a directory even consisting a file)
 	Note: we connot delete a directory directly if the directory has files in it. it can be achived through rm -rf command
 9. ls 			---	to display the list of files and direc in the present location
+10. vi filrname    	---	writing the content into the file.
+11. :wq   		--- 	write & quite
 
 File Permissions:
 
